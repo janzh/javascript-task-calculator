@@ -22,7 +22,7 @@ Dersom du skal kode med ren javascript uten rammeverk:
 - Skriv html og javscript rett inn i `index.html`.
 
 ### Kjøre applikasjon
-Åpne nettleser på adressen: `http://localhost:8080/` 
+Åpne nettleser på adressen: `http://localhost:4000/`
 
 ## Oppgave
 Du skal lage en kalkulator! Vi fokuserer ikke på UX her, så standard html5 knapper og inputbokser holder i massevis.
